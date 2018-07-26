@@ -4,4 +4,6 @@ class Person
   def initialize  
   end 
   
-  adele_goldberg = 
+  adele_goldberg = Person.new
+  alan_kay = Person.new
+  
